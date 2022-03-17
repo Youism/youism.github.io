@@ -19,7 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-
+  Notes: "index.html"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
